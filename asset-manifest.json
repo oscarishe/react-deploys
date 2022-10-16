@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oscarishe-REACT2022Q3/static/css/main.8d9f510f.css",
+    "main.js": "/oscarishe-REACT2022Q3/static/js/main.013ee246.js",
+    "index.html": "/oscarishe-REACT2022Q3/index.html",
+    "main.8d9f510f.css.map": "/oscarishe-REACT2022Q3/static/css/main.8d9f510f.css.map",
+    "main.013ee246.js.map": "/oscarishe-REACT2022Q3/static/js/main.013ee246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d9f510f.css",
+    "static/js/main.013ee246.js"
+  ]
+}
